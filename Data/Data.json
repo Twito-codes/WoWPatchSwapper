@@ -1,0 +1,16 @@
+{
+    "PROFILE": "SAMPLEPROFILE",
+    "PROFILES": [
+        "SAMPLEPROFILE"
+    ],
+    "WOW_FOLDER": "PATH/TO/World of Warcraft 3.3.5a/",
+    "SERVERS": {
+        "SAMPLEPROFILE": {
+            "realmlist": "sample.realmlist",
+            "patches": [
+                "patch-sample.mpq",
+                "patch-sample2.mpq"
+            ]
+        }
+    }
+}
